@@ -21,6 +21,25 @@ I will give you some basic ideas on how to do this, then we will share different
 <br>It's gonna be very fun and challenging, believe me 😃
 <br><br>
 
+## [Discussions](https://github.com/Aghajari/One-Line-Art/discussions)
+
+I will add various questions over time in the discussion section. Check and send your answer.
+
+- If you like this topic, you can also help and add new questions to this section.
+- If you want to send an answer, please send your codes in the following format so that the answer to the question is not spoiled for others!
+
+<details><summary><b>Format</b> (Click to expand)</summary><p>
+  
+```html
+<details><summary><b>Spoil</b></summary><p>
+
+```py
+YOUR CODE HERE
+`` `
+</p></details>
+```
+</p></details>
+
 ## Table of Contents  
 - [Lambda Functions](#lambda-functions)
 - [Input](#input)
